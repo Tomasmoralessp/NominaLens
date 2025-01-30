@@ -1,0 +1,20 @@
+# Ignorar entorno virtual
+env/
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos generados por Reflex
+.web/
+.reflex/
+.pcdeploy/
+
+# Configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos temporales
+*.log
+.DS_Store
